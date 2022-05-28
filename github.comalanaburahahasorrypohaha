@@ -1,0 +1,5 @@
+local Juice = game:HttpGet("https://pastebin.com/ABYW4DjB%22)
+
+while task.wait(3.5) do
+workspace.THINGS.REMOTES.MAIN:FireServer("b", Juice)
+end
