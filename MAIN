@@ -1,0 +1,5 @@
+getgenv().key = "q"
+getgenv().prediction = 0.125
+getgenv().part = "Head"
+getgenv().airshot = true 
+getgenv().spinspeed = 21
